@@ -4,6 +4,8 @@
 
 **Catégorie** : Forensic
 
+**Difficulté** : Facile
+
 **Points** : 50
 
 L'épreuve présente deux fichiers. Un .zip et in .pcapng
