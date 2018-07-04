@@ -25,7 +25,7 @@ Ne sachant pas quoi faire de cela, mais ayant conscience que l'information que j
 se trouve dans le flux réseau que j'ai sous les yeux, je cherche rapidement un petit tuto sur YouTube afin de m'indiquer la démarche
 à suivre afin d'isoler des informations pouvant transiter par les cookies.
 
-Je tombe sur cette vidéo [https://www.youtube.com/watch?v=7ezGTP99xSw] (https://www.youtube.com/watch?v=7ezGTP99xSw), qui m'indique
+Je tombe sur cette vidéo https://www.youtube.com/watch?v=7ezGTP99xSw, qui m'indique
 que pour trouver ces informations, il est judicieux de chercher un trame HTTP ayant l'action POST dans ses informations.
 
 Une analyse rapidement de la seule trame correspondant à ces critères me montre directement les champs form, dont un qui porte le
